@@ -98,6 +98,10 @@ body {
     color: #401bd2;
     font-weight: 600;
 }
+.btn:hover{
+    opacity: 0.9;
+    transition: 0.1 ease-in;
+}
 
 .wrapper .register-link {
     padding: 20px;
